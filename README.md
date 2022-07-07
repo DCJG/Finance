@@ -1,2 +1,2 @@
 # Fin
-Mobile Personal Finance App
+Basic Mobile Personal Finance App Model
